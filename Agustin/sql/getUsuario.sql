@@ -1,0 +1,1 @@
+SELECT usuario FROM tablaautos.id = 

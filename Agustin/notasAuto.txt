@@ -1,0 +1,39 @@
+auto es una clase
+
+para instanciar necesita:
+patente, marca, modelo, año, color, pathimagen
+
+
+auto puede:
+
+	devolver de tabla:
+	patente, marca, modelo, año, color, idusuario(nullable), pathimagen
+
+	ser alquilado
+	
+	ser liberado
+
+	¿podría ser destruido desde su misma instancia o necesita un archivo aparte?
+
+
+para crearlo?:
+	se podrá dinamizar nombres de var? en ese caso:
+		$auto.[contador incremental] = new auto(patente, marca, modelo, año, color, pathImagen);
+
+-------------------------------------------------------------------------------------------------------------------
+
+FALTA
+
+admin puede editar DONE
+admin puede agregar DONE
+admin puede eliminar DONE
+
+pasar querys a archivos sql DONE
+
+auto puede ser alquilado DONE
+auto puede ser devuelto DONE
+auto devuelve su info en las cards DONE
+
+usuario sabe que auto alquiló DONE
+
+limpiar proyecto

@@ -1,0 +1,1 @@
+SELECT patente,marca,modelo,anio,color,id,precio,existe,usuario FROM tablaautos WHERE id =

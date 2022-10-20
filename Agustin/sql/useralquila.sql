@@ -1,0 +1,1 @@
+UPDATE tablausuarios SET idauto = 

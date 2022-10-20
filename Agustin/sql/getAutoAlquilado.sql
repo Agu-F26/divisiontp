@@ -1,0 +1,1 @@
+select idauto FROM tablausuarios WHERE id = 
